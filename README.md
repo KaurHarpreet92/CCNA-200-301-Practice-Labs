@@ -1,4 +1,4 @@
-# My-CCNA-Journey
+# Practice Labs Description
 Lab 1:Basic Device Security
       In this lab, we have configured encrypted and un-encrypted passwords on both router and switch.
 
